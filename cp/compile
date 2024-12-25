@@ -1,0 +1,4 @@
+# /usr/local/bin/compile
+# Last updated: 2024 ICPC SoCal
+
+g++ -std=c++17 -Wall -Wextra -O2 "$1" -o a.out
