@@ -1,0 +1,14 @@
+{
+  "compile_command": "clang++",
+  "run_command": "./cpp.out",
+  "compile_args": [
+    "-O2",
+    "solution.cpp",
+    "-o",
+    "cpp.out",
+    "-std=c++17"
+  ],
+  "contest_directory": "/Users/steven/contests",
+  "cpp_template": "/Users/steven/repositories/dotfiles/cp/template.cpp",
+  "port": 27121
+}
